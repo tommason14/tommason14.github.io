@@ -1,7 +1,6 @@
 $(function(){
   showNav();
-  // closeNavOnLink();
-  //slowJump();
+  closeNavOnLink();
 })
 
 
@@ -14,32 +13,26 @@ function showNav() {
 
 
 
-// function closeNavOnLink() {
+function closeNavOnLink() {
   
-//   $('a[href^="#"]').on('click',function(){
-//     $('nav').toggleClass('nav-visible', 400);
-// });
-// };
-
-// function slowJump() {
-//   $("a").click(function(e) { 
-//     e.preventDefault(); 
-//     var dest = $.attr(this, 'href');
-//     $('html, body').animate({
-//       scrollTop: $(dest).offset().top }, 500);
-//     return false;
-//   });
-// };
-
-function slowJump(){
-$('nav ul li').on('click','a',function(event){
-  event.preventDefault;
-
-  var body = $("html, body"),
-      link = $(this).attr('data-scroll');
+  $('a[href^="#"]').on('click',function(e){
+    setTimeout(function(){
+      $('.header__nav').toggleClass('nav-visible');
+    }, 700);
+    
+    var el = $( e.target.getAttribute('href') );
+    var elOffset = el.offset().top;
+    var elHeight = el.height();
+    var windowHeight = $(window).height();
+    var offset;
   
-  body.animate({scrollTop: $('section[data-scrolled="'+link+'"]').offset().top}, '500', 'swing', function() { 
-  });
-  return false;
+    if (elHeight < windowHeight) {
+      offset = elOffset - ((windowHeight / 2) - (elHeight / 2));
+    }
+    else {
+      offset = elOffset;
+    }
+    var speed = 700;
+    $('html, body').animate({scrollTop:offset}, speed);
 });
 };
