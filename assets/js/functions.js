@@ -1,29 +1,25 @@
 $(function(){
   showNav();
-  closeNavOnLink();
+  // closeNavOnLink();
   //slowJump();
-});
+})
 
 
 
 function showNav() {
-  $('.logo').on('click', function(){
-    if ($('#menu-toggle').attr('checked', false)){
-      $('#menu-toggle').attr('checked', true);
-      $('.nav').toggleClass('nav-visible');
-    }
-  });
+  $('.header__logo').on('click', function(){
+    $('.header__nav').toggleClass('nav-visible');
+    });
 };
 
 
 
-function closeNavOnLink() {
+// function closeNavOnLink() {
   
-  $('a[href^="#"]').on('click',function(){
-    $('#menu-toggle').attr('checked', false);
-    $('.nav').toggleClass('nav-visible', 400);
-});
-};
+//   $('a[href^="#"]').on('click',function(){
+//     $('nav').toggleClass('nav-visible', 400);
+// });
+// };
 
 // function slowJump() {
 //   $("a").click(function(e) { 
