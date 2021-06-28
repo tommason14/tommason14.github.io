@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical Mechanics on Tom Mason</title>
-    <link>https://example.com/tags/statistical-mechanics/</link>
+    <link>https://tommason14.github.io/tags/statistical-mechanics/</link>
     <description>Recent content in Statistical Mechanics on Tom Mason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tommason14.github.io/tags/statistical-mechanics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting Entropic Effects of Water Mixing with Ionic Liquids</title>
-      <link>https://example.com/publications/choline/</link>
+      <link>https://tommason14.github.io/publications/choline/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/choline/</guid>
+      <guid>https://tommason14.github.io/publications/choline/</guid>
       <description>Study into the interactions of water with various hydrogen-bonding ionic liquids. We show that water incorporates itself into choline-based ionic liquids with minimal adverse effects on the neat ionic structure, resulting in a lower entropic penalty when compared to imidazolium-based ILs. Electronic properties were studied along with effects on IR spectra from a theoretical perspective.</description>
     </item>
     

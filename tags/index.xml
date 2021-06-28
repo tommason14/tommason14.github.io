@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tom Mason</title>
-    <link>https://example.com/tags/</link>
+    <link>https://tommason14.github.io/tags/</link>
     <description>Recent content in Tags on Tom Mason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tommason14.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Free energy</title>
-      <link>https://example.com/tags/free-energy/</link>
+      <link>https://tommason14.github.io/tags/free-energy/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/free-energy/</guid>
+      <guid>https://tommason14.github.io/tags/free-energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IR</title>
-      <link>https://example.com/tags/ir/</link>
+      <link>https://tommason14.github.io/tags/ir/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ir/</guid>
+      <guid>https://tommason14.github.io/tags/ir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Mechanics</title>
-      <link>https://example.com/tags/statistical-mechanics/</link>
+      <link>https://tommason14.github.io/tags/statistical-mechanics/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/statistical-mechanics/</guid>
+      <guid>https://tommason14.github.io/tags/statistical-mechanics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD pipelines</title>
-      <link>https://example.com/tags/ci/cd-pipelines/</link>
+      <link>https://tommason14.github.io/tags/ci/cd-pipelines/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ci/cd-pipelines/</guid>
+      <guid>https://tommason14.github.io/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>https://example.com/tags/continuous-delivery/</link>
+      <link>https://tommason14.github.io/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/continuous-delivery/</guid>
+      <guid>https://tommason14.github.io/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://example.com/tags/continuous-integration/</link>
+      <link>https://tommason14.github.io/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/continuous-integration/</guid>
+      <guid>https://tommason14.github.io/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://example.com/tags/culture/</link>
+      <link>https://tommason14.github.io/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/culture/</guid>
+      <guid>https://tommason14.github.io/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://example.com/tags/devops/</link>
+      <link>https://tommason14.github.io/tags/devops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/devops/</guid>
+      <guid>https://tommason14.github.io/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agile</title>
-      <link>https://example.com/tags/agile/</link>
+      <link>https://tommason14.github.io/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/agile/</guid>
+      <guid>https://tommason14.github.io/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://example.com/tags/r-markdown/</link>
+      <link>https://tommason14.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/r-markdown/</guid>
+      <guid>https://tommason14.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://example.com/tags/plot/</link>
+      <link>https://tommason14.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/plot/</guid>
+      <guid>https://tommason14.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://example.com/tags/regression/</link>
+      <link>https://tommason14.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/regression/</guid>
+      <guid>https://tommason14.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
